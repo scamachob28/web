@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pais SYSTEM "colombiaDTD.dtd">
+<pais xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="colombiaXSD.xsd">
+  <nombre>Colombia</nombre>
+  <poblacion>49999399</poblacion>
+  <continente>America</continente>
+  <nombreCapital>Bogota</nombreCapital>
+  <coordenadas>
+    <latitud>4.02</latitud>
+    <longitud>72.01</longitud>
+  </coordenadas>
+  <fotografias>
+    <nombre>Monserrate</nombre>
+    <descripcion>Lugar tradicional de perigrinacion religiosa</descripcion>
+    <url>https://acortar.link/Nz15pB</url>
+  </fotografias>
+</pais>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paises SYSTEM "paisesDTD.dtd">
+<paises>
+  <pais id="P1">
+    <nombre>Colombia</nombre>
+    <continente>America</continente>
+    <capital>Bogota</capital>
+    <superficie>23000000</superficie>
+    <poblacion>49000000</poblacion>
+    <ciudades>
+      <ciudad>Medellin</ciudad>
+    </ciudades>
+    <lenguas>
+      <lengua>Español</lengua>
+    </lenguas>
+    <religiones>
+      <religion>Catolica</religion>
+    </religiones>
+    <moneda>Peso colombiano</moneda>
+  </pais>
+</paises>

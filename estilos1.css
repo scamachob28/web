@@ -1,0 +1,18 @@
+IMG
+{
+width:300px;
+border: 2px dotted #FF5733;
+border-style: solid;
+}
+h1.green
+{
+color: #1F7807;
+font-variant: small-caps;
+text-align: center;
+font-weight: bold;
+}
+.center
+{
+text-align: center;
+font-weight: bold;
+}
